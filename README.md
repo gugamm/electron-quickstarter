@@ -10,6 +10,21 @@ Electron Quickstarter is a personal project build based on [this project](https:
   - Webpack setup
   - ElectronBuilder setup
 
+### Getting Started
+
+Clone the repository
+
+```sh
+$ git clone --depth=1 https://github.com/gugamm/electron-quickstarter.git <your-project-name>
+```
+
+Then install the dependencies
+
+```sh
+$ cd <your-project-name>
+$ npm install
+```
+
 ### Scripts
 
 Below is a description of each included script
