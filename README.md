@@ -2,7 +2,7 @@
 
 Electron Quickstarter is a personal project build based on [this project](https://github.com/Robinfr/electron-react-typescript)
 
-# What is included
+### What is included
 
   - React
   - HMR (Hot Module Reload)
